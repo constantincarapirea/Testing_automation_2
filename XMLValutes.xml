@@ -1,0 +1,37 @@
+<ValCurs Date="01.01.2019" name="Official exchange rate">
+    <Valute ID="51">
+        <NumCode>960</NumCode>
+        <CharCode>EURO</CharCode>
+        <Nominal>100</Nominal>
+        <Name>Euro</Name>
+        <Value>21.5620</Value>
+    </Valute>
+    <Valute ID="53">
+        <NumCode>978</NumCode>
+        <CharCode>USD</CharCode>
+        <Nominal>1</Nominal>
+        <Name>US Dollar</Name>
+        <Value>17.1427</Value>
+    </Valute>
+    <Valute ID="56">
+        <NumCode>933</NumCode>
+        <CharCode>RUB</CharCode>
+        <Nominal>10</Nominal>
+        <Name>Russian Ruble</Name>
+        <Value>0.2469</Value>
+    </Valute>
+    <Valute ID="59">
+        <NumCode>972</NumCode>
+        <CharCode>RON</CharCode>
+        <Nominal>1</Nominal>
+        <Name>Romanian Leu</Name>
+        <Value>4.2001</Value>
+    </Valute>
+    <Valute ID="54">
+        <NumCode>941</NumCode>
+        <CharCode>UAH</CharCode>
+        <Nominal>1</Nominal>
+        <Name>Ukraine Hryvnia</Name>
+        <Value>0.6454</Value>
+    </Valute>
+</ValCurs>
